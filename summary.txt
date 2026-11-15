@@ -1,0 +1,3 @@
+scanned_files 60
+indexed_batches 57
+mismatched_batches 10
